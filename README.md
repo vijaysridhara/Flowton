@@ -2,6 +2,7 @@
 # version 0.3
 Flowton is a simple flowcharting application for developers, re-engineers, architects, database designers. 
 
+![Screen](https://public-files.gumroad.com/8f54qwg4v4h4ehbrqx08avomb8yy)
 It is based on NShape, which is a diagramming control for .net released by dataweb.de. 
 
 ## Supports the following features
