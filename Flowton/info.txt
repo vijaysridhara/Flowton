@@ -1,0 +1,3 @@
+Flowton is a open source application released under GPL V2. Uses NSHAPE library found at http://code.google.com/p/nshape. The Code is open source. The stencils(libraries). 
+
+I encourage you to develop more libraries to use and post them for the benefit of user community. If you are willing to code more libraries, see the documentation of Nshape. 
